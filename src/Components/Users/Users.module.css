@@ -1,0 +1,59 @@
+.badgeActiveInActive{
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 250;
+  border-radius: 15px;
+  text-align: center;
+  transition: background-color 0.5s ease;
+
+}
+.active {
+  background-color: #009247;
+}
+
+.inactive {
+  background-color: rgba(146, 46, 37, 0.698);
+}
+
+.blockBtn {
+  font-size: 16px;
+  text-align: center;
+  border: none;
+  border-radius: 15px;
+}
+
+
+
+
+
+.title{
+  font-weight: bold;
+}
+
+.icons {
+  top: 30%;
+  left: 0.5rem;
+}
+
+.btnactions{
+  display: flex;
+  align-items: center;
+  width: 150px;
+
+}
+
+.btnactions span {
+  margin-right: 5px;
+}
+
+.blockunblock {
+  width: 85px;
+  margin-right: 5px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 16px;
+  border: none;
+}
+.blockunblock:focus,.eyeIcon:focus{
+  outline: 3px solid black;
+}

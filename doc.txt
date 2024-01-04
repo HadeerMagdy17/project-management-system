@@ -1,0 +1,16 @@
+http://upskilling-egypt.com:3003/docs 
+
+https://rb.gy/b7vya1 
+
+
+superAdmin identifiant:
+nadia.mohamed.taha166@gmail.com
+@Upskilling123!
+
+
+
+{
+  "email": "samii-1989@live.com",
+  "password": "Samiya1234@"
+
+}

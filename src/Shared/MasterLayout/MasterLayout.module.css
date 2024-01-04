@@ -1,0 +1,18 @@
+.container1 {
+    display: flex;
+  }
+
+  .content {
+    flex: 1;
+  }
+
+  /* Add media queries for responsiveness if needed */
+  @media (max-width: 768px) {
+    .sidebar {
+      display: none; /* Hide sidebar on smaller screens */
+    }
+
+    .content {
+      flex: 1; /* Ensure content takes full width on smaller screens */
+    }
+  }

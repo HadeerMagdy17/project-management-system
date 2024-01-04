@@ -1,0 +1,58 @@
+
+.column {
+  padding: 5px;
+}
+.icons {
+  top: 30%;
+  left: 0.5rem;
+}
+
+/* Media query for small screens */
+@media (max-width: 820px) {
+  .columnContainer {
+    flex-direction: column; /* Stack columns vertically */
+    align-items: center; /* Center columns horizontally */
+  }
+
+  .column {
+    width: 100%; /* Take full width of the screen */
+    margin: 0 0 18px 0; /* Add some space between columns */
+  }
+}
+
+/* .bgStatus{
+  background-color: hsla(168, 29%, 27%, 0.898);
+  height: 400px;
+  width: 300px;
+} */
+
+/* .taskContent {
+  display: flex;
+  align-items: center;
+  background-color: #EF9B28;
+  border-radius: 15px;
+  padding-right: 10px;
+
+} */
+
+/* .taskTitleBackground {
+  position: relative;
+  padding: 10px;
+  color: white;
+  flex-grow: 1;
+} */
+.editIcon {
+  cursor: pointer;
+  color: #fff;
+  display: block;
+}
+
+.bgStatus{
+  margin: 8px;
+  width: 270px;
+  background-color: #024337;
+  /* display: flex;
+  flex-direction: column; */
+  min-height: 500px;
+}
+
