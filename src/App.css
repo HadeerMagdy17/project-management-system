@@ -19,6 +19,7 @@ body,
   background-image: url("./assets/images/bg3.png");
   background-size: cover;
   background-position: center center;
+  
 }
 .overlay-bg{
   background-image: linear-gradient(to right top, rgba(49, 89, 81, 0.9), rgba(187, 144, 88, 0.6));
@@ -27,6 +28,7 @@ body,
 .login-wrapper {
   background-color: var(--second-color);
   border-radius: 20px;
+  min-width: 260px;
 }
 .row {
   margin-right: 0 !important;

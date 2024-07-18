@@ -69,7 +69,7 @@ const Register: React.FC = () => {
               onSubmit={handleSubmit(onSubmit)}
               className="m-auto w-100 p-5 rounded-4"
             >
-              <p className="text-white">Welcome to PMs</p>
+              
               <h2 className="title">Create New Account</h2>
 
               <div className="row">
